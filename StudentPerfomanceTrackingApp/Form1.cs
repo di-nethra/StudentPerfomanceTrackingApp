@@ -12,6 +12,14 @@ namespace StudentPerfomanceTrackingApp
 
         }
 
-        
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelDateTime_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
